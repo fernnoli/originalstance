@@ -1,0 +1,23 @@
+{
+  "name": "originalstance",
+  "version": "1.0.0",
+  "description": "debate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernnoli/originalstance.git"
+  },
+  "author": "fernando lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernnoli/originalstance/issues"
+  },
+  "homepage": "https://github.com/fernnoli/originalstance#readme",
+  "keywords": [],
+  "dependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
